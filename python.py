@@ -1,2 +1,2 @@
 #python
-print('hi')
+print('hei')
